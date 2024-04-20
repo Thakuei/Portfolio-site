@@ -10,3 +10,6 @@ pnpm dev
 bun dev
 
 今回はpnpmで構築しているため、pnpmが推奨
+
+## icon
+https://icones.js.org/settings
