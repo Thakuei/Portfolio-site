@@ -5,7 +5,7 @@ import { Fa6BrandsXTwitter } from './icon/x-icon';
 
 export default function Footer() {
     return (
-    <footer className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
+    <footer className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto bg-white">
         <div className="text-center">
             <div>
                 <a className="flex-none text-3xl font-semibold text-black dark:text-white">Hakuei</a>
